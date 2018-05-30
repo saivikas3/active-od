@@ -1,0 +1,9 @@
+ACTIVE LEARNING on CROP DATASETS
+
+Using YOLOv3
+
+Step 1: Gathering and Preprocessing the data
+
+- Select 50 random images from the Kinmaze dataset.
+- Crop them to 1216x1216. Split each image into 4 608x608 sized images.
+- Select a labeling tool and manually annotate those 200 images.

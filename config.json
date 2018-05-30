@@ -1,6 +1,8 @@
 {
   "dataset_params"	:{
-     "dir"   :   "enter directory name here"
+     "dir"   :   "/home/vikas/research/active-learning/kinmaze/" ,
+     "annotated" : "/home/vikas/research/active-learning/annotated_kinmaze/"
   
-  }
+  },
+  "seed" : 412
 }
